@@ -1,0 +1,11 @@
+{
+  "name": "y-range-parser",
+  "version": "1.0.0",
+  "description": "a library to parse ranges of the forms '1-3,6-9,11'",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "yazgazan@gmail.com",
+  "license": "ISC"
+}
